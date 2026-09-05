@@ -1,3 +1,23 @@
 *{
     background-color: rgba(0, 100, 0, 0.1);
 }
+
+.portfolio_animation{
+    background-color: #2d3a47;
+    color: #eee;
+}
+
+.portfolio_graphicDesign{
+    background-color: #b46a72;
+    color: #222;
+}
+
+.portfolio_webdev{
+    background-color: #a9b7c6;
+    color: #222;
+}
+
+.portfolio_charaDesign{
+    background-color: #a8b58a;
+    color: #222;
+}
